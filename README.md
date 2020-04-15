@@ -19,3 +19,4 @@ Command to run: python3 custom_solver.py
 
 Requirements: Goolge OR-Tool (`pip3 install --upgrade --user ortools`)
 
+Similarly for custom_integer_solver.py
