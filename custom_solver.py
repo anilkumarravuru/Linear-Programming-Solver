@@ -1,6 +1,5 @@
 # Anil Kumar Ravuru
 
-from __future__ import print_function
 from ortools.linear_solver import pywraplp
 solver = pywraplp.Solver('LinearProgrammingExample', pywraplp.Solver.GLOP_LINEAR_PROGRAMMING)
 
